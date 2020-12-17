@@ -1,0 +1,15 @@
+{
+	"coc.preferences.extensionUpdateCheck": "daily",
+	"suggest.noselect": true,
+	"suggest.enablePreselect": false,
+	"coc.preferences.formatOnSaveFiletypes": [
+		"json",
+		"java"
+	],
+	"diagnostic.refreshOnInsertMode": false,
+	"snippets.ultisnips.directories": [
+		"UltiSnips",
+		"$HOME/.config/nvim/Ultisnips/",
+		"$HOME/.vim/plugged/vim-snippets/UltiSnips/"
+	]
+}

@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/Users/apple/.vim/plugged/vim-latex/ftplugin'
+let g:netrw_dirhist_0='/Users/apple/.vim/plugged/vim-latex'
+let g:netrw_dirhist_9='/Users/apple/.vim/plugged/vim-latex/plugin'
+let g:netrw_dirhist_8='/Users/apple/.vim/plugged/vim-latex'
+let g:netrw_dirhist_7='/Users/apple/.vim/plugged'
+let g:netrw_dirhist_6='/Users/apple/.vim'
+let g:netrw_dirhist_5='/Users/apple'
+let g:netrw_dirhist_4='/Users/apple/.config'
+let g:netrw_dirhist_3='/Users/apple/.config/nvim'
+let g:netrw_dirhist_2='/Users/apple/.config/nvim/autoload'
